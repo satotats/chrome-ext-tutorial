@@ -1,7 +1,7 @@
 # What's this
 Sample project of chrome extention.
 
-# About mani
+# About manifest.json
 `manifest.json` is the central definition of chrome extention. Behaves like an entry point.  
 
 ## background
